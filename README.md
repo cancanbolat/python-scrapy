@@ -5,7 +5,7 @@
 ```
 
 ```
-> pip install [scrapy](https://scrapy.org/)
+> pip install scrapy
 ```
 
 ```
